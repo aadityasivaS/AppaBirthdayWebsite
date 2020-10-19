@@ -29,3 +29,11 @@ body {
     width: 85%;
     margin-bottom: 25px;
 }
+@media (max-width: 580px) {
+    .contentDiv h1 {
+        margin: 0;
+        font-family: 'Sacramento';
+        font-size: 90px;
+        color: #FF9642;
+    }
+}

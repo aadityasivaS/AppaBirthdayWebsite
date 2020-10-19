@@ -1,0 +1,31 @@
+body {
+    background-color: #FFE05D;
+    padding: 0;
+    margin: 0;
+}
+.contentDiv {
+    text-align: center;
+    margin: 25px;
+    background-color: #FFF8CD;
+}
+.contentDiv h1 {
+    margin: 0;
+    font-family: 'Sacramento';
+    font-size: 96px;
+    color: #FF9642;
+}
+.CAKE {
+    font-size: 155px;
+}
+.middle-text p {
+    font-family: 'Montserrat';
+    font-size: 28px;
+}
+.flexbox {
+    display: flex;
+    justify-content: space-evenly;
+}
+.balloon {
+    width: 85%;
+    margin-bottom: 25px;
+}
